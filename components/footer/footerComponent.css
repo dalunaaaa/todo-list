@@ -1,0 +1,18 @@
+footer {
+    margin-top: auto;
+    padding: 1rem 2rem;
+    background: #eee2e2;
+    border-top: 3px solid #fff134;
+    text-align: center;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.footer-link {
+    font-size: 1rem;
+    color: #0c0c13;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    transition: color 0.2s;
+}
+
